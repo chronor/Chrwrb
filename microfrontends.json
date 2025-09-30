@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/microfrontends.json",
+  "applications": {
+    "chrwrb": {
+      "development": {
+        "fallback": "chrwrb.vercel.app"
+      }
+    }
+  }
+}
